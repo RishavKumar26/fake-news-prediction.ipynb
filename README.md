@@ -1,4 +1,4 @@
-# 📰 Copy of Fake News Prediction
+# 📰 Fake News Prediction
 
 This project focuses on building a **machine learning model** to detect fake news articles.  
 It applies **Natural Language Processing (NLP)** techniques to analyze text data and classify whether a given news article is **real or fake**.
